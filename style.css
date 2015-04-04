@@ -9,3 +9,12 @@ form {
  padding:10px;
  width:280px;
  }
+fieldset {
+ padding:0 20px 20px 20px;
+ margin-bottom:10px;
+ border:1px solid green;
+ }
+legend {
+ color:#DF3F3F;
+ font-weight:bold
+ }
