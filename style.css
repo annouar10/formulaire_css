@@ -18,3 +18,11 @@ legend {
  color:#DF3F3F;
  font-weight:bold
  }
+ label {
+ margin-top:10px;
+ display:block;
+ }
+label.inline {
+ display:inline;
+ margin-right:50px;
+ }
