@@ -26,3 +26,16 @@ label.inline {
  display:inline;
  margin-right:50px;
  }
+ input, textarea, select, option {
+ background-color:#FFF3F3;
+ }
+input, textarea, select {
+ padding:3px;
+ border:1px solid #F5C5C5;
+ border-radius:5px;
+ width:200px;
+ box-shadow:1px 1px 2px #000000 inset;
+ }
+select {
+ margin-top:10px;
+ }
